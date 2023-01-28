@@ -8,3 +8,5 @@ Author - Vikram
 3.Fix a ground and time
 
 4. Select squad
+
+5. Seperate bowlers

@@ -12,3 +12,5 @@ Author - Vikram
 5. Seperate bowlers
 
 6. seperate batsman.
+
+7.Separate all rounders

@@ -13,4 +13,4 @@ Author - Vikram
 
 6. seperate batsman.
 
-7.Separate all rounders
+7.Separate all rounders.

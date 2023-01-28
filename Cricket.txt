@@ -9,7 +9,7 @@ Author - Vikram
 
 4. Select squad
 
-5. Seperate bowlers
+5. Seperate bowlers & fielders
 
 6. seperate batsman.
 

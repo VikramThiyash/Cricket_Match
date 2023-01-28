@@ -10,3 +10,5 @@ Author - Vikram
 4. Select squad
 
 5. Seperate bowlers
+
+6. seperate batsman
